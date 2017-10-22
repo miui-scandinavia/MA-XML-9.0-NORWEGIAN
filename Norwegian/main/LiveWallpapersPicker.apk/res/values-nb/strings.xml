@@ -2,9 +2,9 @@
 <resources>
   <string name="application_name">Bakgrunnsvelger</string>
   <string name="configure_wallpaper">Innstillinger</string>
-  <string name="live_wallpaper_empty">Ingen animerte bakgrunnsbilder…</string>
-  <string name="live_wallpaper_loading">Laster inn animert bakgrunn.</string>
-  <string name="live_wallpaper_picker_label">Animerte</string>
+  <string name="live_wallpaper_empty">Ingen animerte bakgrunner.</string>
+  <string name="live_wallpaper_loading">Laster inn animert bakgrunn ...</string>
+  <string name="live_wallpaper_picker_label">Animerte bakgrunner</string>
   <string name="live_wallpaper_picker_title">Velg animert bakgrunnsbilde</string>
   <string name="live_wallpaper_preview_title">Forhåndsvisning av animert bakgrunn</string>
   <string name="set_live_wallpaper">Velg som bakgrunnsbilde</string>

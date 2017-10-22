@@ -4,10 +4,10 @@
   <string name="configure">Konfigurer</string>
   <string name="data_received">Mottatt:</string>
   <string name="data_transmitted">Sendt:</string>
-  <string name="disconnect">Avbryt forbindelsen</string>
+  <string name="disconnect">Koble fra</string>
   <string name="duration">Varighet:</string>
   <string name="legacy_title">VPN er tilkoblet</string>
-  <string name="prompt">%s forsøker å oprette en VPN-forbindelse.</string>
-  <string name="session">Sesjon:</string>
-  <string name="warning">Ved å fortsette, gir du applikasjonen tillatelse til å fange opp all nettverkstrafikk. </string>
+  <string name="prompt">Tilkoblingsforespørsel</string>
+  <string name="session">Økt:</string>
+  <string name="warning">%s ønsker å bruke en VPN-tilkobling som tillater at appen overvåker nettverkstrafikken. Du bør bare godta dette hvis du stoler på kilden. &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt; vises øverst på skjermen din når VPN er aktivert.</string>
 </resources>
